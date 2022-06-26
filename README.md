@@ -1,5 +1,5 @@
 # Hello, I am <a href="https://www.linkedin.com/in/abhay-bisht-042662177/">Abhay Bisht </a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px" height="50px"> , I made this project RCT-TWD-ZnoyAdmin
-<a href="https://znoy-dashboard.netlify.app/">Admin DashBoard</a>
+<a href="https://admin-dashboard-backend.netlify.app/">Admin DashBoard</a>
    
 
 ## Framework used 🔥
